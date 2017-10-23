@@ -18,8 +18,8 @@ npm install gatsby-plugin-stripe-checkout
 
 ```javascript
 module.exports = {
-	plugins: [
-		`gatsby-plugin-stripe-checkout`,
-	]
+  plugins: [
+    `gatsby-plugin-stripe-checkout`,
+  ]
 }
 ```
