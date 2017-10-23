@@ -10,7 +10,11 @@ An example project using this plugin is [Unicorn Mart](https://unicorn-mart.netl
 
 ```
 yarn add gatsby-plugin-stripe-checkout
-// or
+```
+
+or
+
+```
 npm install gatsby-plugin-stripe-checkout
 ```
 
