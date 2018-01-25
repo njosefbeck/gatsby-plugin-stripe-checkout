@@ -1,3 +1,5 @@
+import React from 'react';
+
 exports.onRenderBody = ({ setPostBodyComponents }, pluginOptions) => {
   return setPostBodyComponents([
     <script
