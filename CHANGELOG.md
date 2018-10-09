@@ -6,3 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ## [Unreleased]
 
 None currently.
+
+## [1.0.7] - 2018-10-09
+### Changed
+- Resolve npm security audit warnings via `npm audit fix`.
