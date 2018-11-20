@@ -7,6 +7,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 None currently.
 
+## [1.0.9](https://github.com/njosefbeck/gatsby-plugin-stripe-checkout/compare/v1.0.8...v1.0.9) - 2018-11-20
+### Changed
+- Fix dependency pollution thanks to @nikoladev.
+
 ## [1.0.8](https://github.com/njosefbeck/gatsby-plugin-stripe-checkout/compare/v1.0.7...v1.0.8) - 2018-10-09
 ### Changed
 - Add gatsby v1+ as peer dependency as recommended [here](https://github.com/gatsbyjs/gatsby/blob/master/docs/docs/migrating-from-v1-to-v2.md#for-plugin-maintainers).
