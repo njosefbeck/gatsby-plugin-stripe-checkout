@@ -9,7 +9,7 @@ None currently.
 
 ## [1.1.1](https://github.com/njosefbeck/gatsby-plugin-stripe-checkout/compare/v1.0.9...v1.1.1) - 2018-12-03
 ### Changed
-- Added async option, for loading the script tag asyncronously. See the updated README for usage.
+- Add async option, for loading the script tag asyncronously. See the updated README for usage.
 
 ## [1.0.9](https://github.com/njosefbeck/gatsby-plugin-stripe-checkout/compare/v1.0.8...v1.0.9) - 2018-11-20
 ### Changed
