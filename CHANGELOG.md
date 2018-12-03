@@ -7,7 +7,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 None currently.
 
-## [1.1.0](https://github.com/njosefbeck/gatsby-plugin-stripe-checkout/compare/v1.0.9...v1.1.0) - 2018-12-03
+## [1.1.1](https://github.com/njosefbeck/gatsby-plugin-stripe-checkout/compare/v1.0.9...v1.1.1) - 2018-12-03
 ### Changed
 - Added async option, for loading the script tag asyncronously. See the updated README for usage.
 
