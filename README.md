@@ -39,10 +39,12 @@ To load the `<script>` tag asyncronously, pass an 'async' option in `gatsby-conf
 ```javascript
 module.exports = {
   plugins: [
-    `gatsby-plugin-stripe-checkout`,
-    options: {
-      async: true
-    }
-  ]
+    {
+      resolve: `gatsby-plugin-stripe-checkout`,
+      options: {
+        async: true,
+      },
+    },
+  ],
 }
 ```
