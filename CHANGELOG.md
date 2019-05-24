@@ -7,6 +7,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 None currently.
 
+## [1.1.3](https://github.com/njosefbeck/gatsby-plugin-stripe-checkout/compare/v1.1.2...v1.1.3) - 2019-05-24
+### Changed
+- Update README with recommendation to move to new version of Stripe Checkout and gatsby-plugin-stripe
+- Update dev setup
+- Add CODE_OF_CONDUCT
+
 ## [1.1.2](https://github.com/njosefbeck/gatsby-plugin-stripe-checkout/compare/v1.1.1...v1.1.2) - 2018-12-04
 ### Changed
 - Clean up code, thanks to @nikoladev
