@@ -5,7 +5,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unreleased
 
-None currently.
+- Update eslint from 5.16.0 to 6.1.0.
+- Update eslint-config-prettier from 4.3.0 to 6.0.0.
+- Update eslint-plugin-import from 2.17.2 to 2.18.2.
+- Update prettier from 1.17.1 to 1.18.2.
 
 ## [1.1.3](https://github.com/njosefbeck/gatsby-plugin-stripe-checkout/compare/v1.1.2...v1.1.3) - 2019-05-24
 ### Changed
