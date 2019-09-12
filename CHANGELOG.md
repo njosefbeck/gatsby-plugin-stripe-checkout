@@ -5,6 +5,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unreleased
 
+## [1.1.5](https://github.com/njosefbeck/gatsby-plugin-stripe-checkout/compare/v1.1.4...v1.1.5) - 2019-09-12
+### Changed
+- Update cross-env from [5.2.0 to 5.2.1](https://github.com/kentcdodds/cross-env/releases).
+- Update eslint from [6.1.0 to 6.3.0](https://github.com/eslint/eslint/releases).
+- Update eslint-config-prettier from [6.0.0 to 6.3.0](https://github.com/prettier/eslint-config-prettier/blob/master/CHANGELOG.md).
+
 ## [1.1.4](https://github.com/njosefbeck/gatsby-plugin-stripe-checkout/compare/v1.1.3...v1.1.4) - 2019-07-26
 ### Changed
 - Update eslint from [5.16.0 to 6.1.0](https://github.com/eslint/eslint/releases).
