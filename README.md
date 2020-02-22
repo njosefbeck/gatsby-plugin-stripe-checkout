@@ -1,12 +1,12 @@
-# gatsby-plugin-stripe-checkout
+# [deprecated] gatsby-plugin-stripe-checkout
 
-A simple plugin that adds the [Stripe Checkout JavaScript file](https://stripe.com/docs/checkout#integration-custom) to every page of your Gatsby site.
+**THIS PROJECT IS NOW DEPRECATED. Read below for more details.**
 
-**If you're using the new version of Stripe Checkout, which is recommended, use [gatsby-plugin-stripe](https://github.com/njosefbeck/gatsby-plugin-stripe) instead.**
+**Stripe has now published [a wrapper for Stripe.js](https://github.com/stripe/stripe-js) that you should use instead of this plugin. For an example of it used in a React project with Stripe Elements, see [these Stripe docs](https://stripe.com/docs/stripe-js/react#elements-provider).**
 
-The Stripe Team said:
+**This plugin will no longer be maintained or updated.**
 
-> We released a new version of Checkout in April 2019 which supports card payments, Apple Pay and Dynamic 3D Secure. The legacy version of Checkout can still be used to accept payments, but is no longer in active development and does not support the upcoming European Strong Customer Authentication regulation.
+---
 
 Use cases include:
 
